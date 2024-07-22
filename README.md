@@ -4,15 +4,31 @@
 
 The essential files for our experiments are organized within a folder named **LOGIC**. This folder contains the following structure:
 
-LOGIC/
-├── data/
-│ └── raw_data/
-├── dataset.py
-├── main_sem16.py
-├── main.py
-├── models.py
-├── run_sem16.sh
-└── run.sh
+LOGIC/  
+
+
+├── data/    
+
+
+│ └── raw_data/  
+
+
+├── dataset.py  
+
+
+├── main_sem16.py  
+
+
+├── main.py  
+
+
+├── models.py  
+
+
+├── run_sem16.sh  
+  
+
+└── run.sh  
 
 
 ### Data
