@@ -45,7 +45,7 @@ LOGIC/
 - **main.py**: Main script for running general experiments.
 - **models.py**: Script containing model definitions and related functions.
 - **run_sem16.sh**: Shell script for executing experiments on the SemEval2016 dataset.
-- **run.sh**: Shell script for executing general experiments.
+- **run.sh**: Shell script for executing experiments on the VAST dataset.
 
 ## Reproducing the Experiments
 
