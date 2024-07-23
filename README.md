@@ -37,4 +37,4 @@ To reproduce our experiments, follow these steps:
 
 ## Further Information
 
-For a more comprehensive theoretical background and detailed methodologies, please refer to the body of our accompanying paper.
+For a more comprehensive theoretical background, detailed methodologies and experimental setting, please refer to the body of our accompanying paper.
