@@ -10,7 +10,6 @@ The essential files for our experiments are organized within a folder named `LOG
 ### `data/raw_data/`:
 This subfolder includes:
 - The original VAST dataset from Emily Allaway's zero-shot stance repository.
-- Additional datasets created by us for experimental purposes.
 
 ## Source Files
 
