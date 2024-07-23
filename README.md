@@ -17,7 +17,7 @@ This folder includes:
 ### Source Files
 
 - `dataset.py`: Script for handling and processing datasets.
-- `main.py`: Main script for running general experiments.
+- `main.py`: Main script for running experiments on the VAST dataset.
 - `models.py`: Script containing model definitions and related functions.
 - `run.sh`: Shell script for executing experiments on the VAST dataset.
 
