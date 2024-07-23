@@ -16,17 +16,10 @@ LOGIC/
 ├── dataset.py  
 
 
-├── main_sem16.py  
-
-
 ├── main.py  
 
 
 ├── models.py  
-
-
-├── run_sem16.sh  
-  
 
 └── run.sh  
 
