@@ -12,7 +12,7 @@ This subfolder includes:
 
 #### `data/`:
 This folder includes:
-- Additional datasets created by us for experimental purposes (reasoning generation, LLM target knowledge).
+- Additional datasets created by us for experimental purposes (LLM target knowledge, LLM reasoning).
 
 ### Source Files
 
