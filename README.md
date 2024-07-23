@@ -4,14 +4,17 @@
 
 The essential files for our experiments are organized within a folder named `LOGIC`. This folder contains the following structure:
 
+### Data
 
-## Data
-
-### `data/raw_data/`:
+#### `data/raw_data/`:
 This subfolder includes:
 - The original VAST dataset from Emily Allaway's zero-shot stance repository.
 
-## Source Files
+#### `data/`:
+This folder includes:
+- Additional datasets created by us for experimental purposes (reasoning generation, LLM target knowledge).
+
+### Source Files
 
 - `dataset.py`: Script for handling and processing datasets.
 - `main.py`: Main script for running general experiments.
@@ -23,16 +26,13 @@ This subfolder includes:
 To reproduce our experiments, follow these steps:
 
 ### Modify Parser Variables:
-
 - Refer to the parser variables defined in `main.py`.
 - Adjust these variables according to your experimental needs.
 
 ### Adjust Shell Scripts:
-
 - Edit the variables in `run.sh` to match your setup.
 
 ### Execute Shell Scripts:
-
 - Run the shell script to start the experiments. The execution results will be logged and stored in a new folder named `logs`, created during execution.
 
 ## Further Information
