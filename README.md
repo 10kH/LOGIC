@@ -13,7 +13,7 @@ This subfolder includes:
 #### `data/`:
 This folder includes:
 - Additional datasets created by us for experimental purposes (LLM target knowledge, LLM reasoning).
-- LLM target knowledge data files: new_topic_chatgpt.json, new_topic_chatgpt.pkl, topic_str_chatgpt.json, topic_str_chatgpt.pkl. The JSON files are the original files, while the PKL files are converted versions used for experiments to ensure compatibility with Wikipedia data. The content is identical.
+- LLM target knowledge data files: new_topic_chatgpt.json, new_topic_chatgpt.pkl, topic_str_chatgpt.json, topic_str_chatgpt.pkl. The file actually used for the performance comparison is new_topic_chatgpt.pkl. The two types of files were used to find the better one by utilizing the columns in the original data CSV. The JSON files are the original files, while the PKL files are converted versions used for experiments to ensure compatibility with Wikipedia data. The contents of each JSON and PKL file are identical.
 - Wikipedia target knowledge file: wiki_dict.pkl. This file is in PKL format because it follows the data format first presented in the repository of the paper "Infusing Knowledge from Wikipedia to Enhance Stance Detection" (https://github.com/zihaohe123/wiki-enhanced-stance-detection) and used in the paper "Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation" (https://github.com/wenhycs/ACL2023-Zero-Shot-and-Few-Shot-Stance-Detection-on-Varied-Topics-via-Conditional-Generation).
 - VAST_reasoing_long_and_short.csv: This file contains LLM reasoning and is used for model training. Detailed information is provided in the paper.
 - For ease of use, the raw_data files are also included in the `data` folder.
