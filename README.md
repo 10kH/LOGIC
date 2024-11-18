@@ -1,5 +1,21 @@
 # LOGIC: LLM-Originated Guidance for Internal Cognitive Improvement of Small Language Models in Stance Detection
 
+**Status**: Accepted  
+**Type**: AI Application  
+**Journal**: PeerJ Computer Science  
+
+## Abstract
+
+Stance detection is a critical task in natural language processing that determines an author's viewpoint toward a specific target, playing a pivotal role in social science research and various applications. Traditional approaches incorporating Wikipedia-sourced data into small language models (SLMs) to compensate for limited target knowledge often suffer from inconsistencies in article quality and length due to the diverse pool of Wikipedia contributors.
+
+To address these limitations, we utilize large language models (LLMs) pretrained on expansive datasets to generate accurate and contextually relevant target knowledge. By providing concise, real-world insights tailored to the stance detection task, this approach surpasses the limitations of Wikipedia-based information.
+
+Despite their superior reasoning capabilities, LLMs are computationally intensive and challenging to deploy on smaller devices. To mitigate these drawbacks, we introduce a reasoning distillation methodology that transfers the reasoning capabilities of LLMs to more compact SLMs, enhancing their efficiency while maintaining robust performance.
+
+Our stance detection model, **LOGIC**, is built on BART and fine-tuned with auxiliary learning tasks, including reasoning distillation. By incorporating LLM-generated target knowledge into the inference process, LOGIC achieves state-of-the-art performance on the VAST dataset, outperforming advanced models like GPT-3.5 Turbo and GPT-4 Turbo in stance detection tasks.
+
+---
+
 ## Project Structure
 
 The essential files for our experiments are organized within a folder named `LOGIC`. This folder contains the following structure:
