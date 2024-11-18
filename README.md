@@ -6,8 +6,6 @@
 
 ## Authors
 
-## Authors
-
 - **Woojin Lee***  
   Department of Artificial Intelligence, Konkuk University, Seoul, Republic of Korea  
 
@@ -23,7 +21,6 @@
 † Corresponding author   
 
 ---
-
 
 ## Abstract
 
