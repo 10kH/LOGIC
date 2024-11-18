@@ -6,16 +6,24 @@
 
 ## Authors
 
-- **Woojin Lee**  
+## Authors
+
+- **Woojin Lee***  
   Department of Artificial Intelligence, Konkuk University, Seoul, Republic of Korea  
 
-- **Jaewook Lee**  
+- **Jaewook Lee***  
   Department of Artificial Intelligence, Konkuk University, Seoul, Republic of Korea  
 
-- **Harksoo Kim**  
+- **Harksoo Kim†**  
   Department of Computer Science and Engineering, Konkuk University, Seoul, Republic of Korea  
 
 ---
+
+\* Co-first authors  
+† Corresponding author   
+
+---
+
 
 ## Abstract
 
