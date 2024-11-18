@@ -4,6 +4,19 @@
 **Type**: AI Application  
 **Journal**: PeerJ Computer Science (SCIE, Q1)    
 
+## Authors
+
+- **Woojin Lee**  
+  Department of Artificial Intelligence, Konkuk University, Seoul, Republic of Korea  
+
+- **Jaewook Lee**  
+  Department of Artificial Intelligence, Konkuk University, Seoul, Republic of Korea  
+
+- **Harksoo Kim**  
+  Department of Computer Science and Engineering, Konkuk University, Seoul, Republic of Korea  
+
+---
+
 ## Abstract
 
 Stance detection is a critical task in natural language processing that determines an author's viewpoint toward a specific target, playing a pivotal role in social science research and various applications. Traditional approaches incorporating Wikipedia-sourced data into small language models (SLMs) to compensate for limited target knowledge often suffer from inconsistencies in article quality and length due to the diverse pool of Wikipedia contributors.
