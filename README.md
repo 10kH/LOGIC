@@ -2,7 +2,7 @@
 
 **Status**: Accepted  
 **Type**: AI Application  
-**Journal**: PeerJ Computer Science  
+**Journal**: PeerJ Computer Science (SCIE, Q1)    
 
 ## Abstract
 
